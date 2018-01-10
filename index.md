@@ -1,7 +1,5 @@
 ## Android Tools for Software Product Line Research
 
-Building software product line for mobile apps
-
 ### Links
 
 This web site acts as a portal for different projects in Android-based (mobile based) software product line research.
