@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{./iabuilder.html}
+= IA Builder
+
+
+== Introduction
+TODO
+
+=== Tool:
+~~~
+Currently we only provide the binary verion of our tool. The tool is an IntelliJ IDEA plugin and the ultimate version is required to use this tool. If you are a faculty member or research student, you can apply a free education license for IntelliJ ultimate version. We developed the tool based on v2017.3, other versions may work but not fully tested. The source code of the tool will be public available util we receive the paper notification.
+~~~
+
+=== Dataset:
+~~~
+At current stage, we only provide processed data for paper evalution. The raw data will be public available until we receive the paper notification.
+~~~
+
+== Support
+
+If you have any problem with the tool and data, please [https://chrisyttang.org contact support].

@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{index.html}
+= Android Tools for Software Product Line Research
+
+
+== Links
+
+This web site acts as a portal for different projects in Android-based (mobile based) software product line research.
+
+=== Tools on this site:
+- [./iabuilder/index.html IABuilder]
+
+=== Datasets on this site:
+- [./iabuilder/index.html IABuilder Dataset]
+
+== Support or Contact
+
+Having trouble with pages or missing your tools/research ? [https://chrisyttang.org Contact support] and we’ll help you sort it out.
